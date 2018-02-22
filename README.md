@@ -1,4 +1,4 @@
-# Spring Webflux Reactive Rest
+# Spring Webflux Functional Reactive Rest
 
 Building Functional Reactive Rest Service with Spring Flux.
 
